@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyAppCollection</string>
+    <string name="hello_world">Hello World!\nThis is my app collection \nof Udacity AND course.</string>
+
+    <string name="app_zero">Launching: hot movies app</string>
+    <string name="app_one">Launching: stocks app</string>
+    <string name="app_two">Launching: xyz reader app</string>
+    <string name="app_three">Launching: news app</string>
+    <string name="app_four">Launching: graduate design</string>
+
+    <string name="app_zero_name">Hot movies app</string>
+    <string name="app_one_name">Stocks app</string>
+    <string name="app_two_name">XYZ reader app</string>
+    <string name="app_three_name">News app</string>
+    <string name="app_four_name">Graduate design</string>
+</resources>
